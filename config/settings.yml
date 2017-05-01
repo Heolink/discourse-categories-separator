@@ -1,0 +1,7 @@
+plugins:
+  categories_separator_list:
+    default: ''
+    client: true
+  categories_separator_list_title:
+    default: ''
+    client: true

@@ -1,0 +1,13 @@
+.category-list tbody tr.category-separator {
+  border: none;
+}
+
+.category-separtor-header td.category, .category-separtor-header td.topics, .category-separtor-header td.latest {
+  text-align: left;
+  vertical-align: middle;
+  font-weight: normal;
+}
+
+.category-separtor-header td.topics {
+  text-align: right;
+}

@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    categories_separator_list : "Separator before this categories (20,10)"
+    categories_separator_list_title: "Titles separator (Lorem ipsum, Other group)"
